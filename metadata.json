@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FreshFlow POS",
+  "description": "A high-performance grocery store Point of Sale (POS) system featuring inventory management, real-time analytics, and smart retail tools for seamless checkout.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
